@@ -66,6 +66,7 @@
 }
 
 
+/* media query for larger screens */
 @media (min-width: 800px) {
     .mainGrid {
         display: grid;

@@ -23,3 +23,9 @@ p,
 a {
     font-size: 10pt;
 }
+
+.subtitle {
+    font-size: 9pt;
+    color: grey;
+    font-weight: 200;
+}
